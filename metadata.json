@@ -1,0 +1,7 @@
+{
+  "name": "Luna Cards & Loyalty Privileges",
+  "description": "Explore official Luna Department Store credit and debit card privileges, compare bonus points, calculate gift voucher rebates, and access member FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
